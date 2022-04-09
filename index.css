@@ -3,6 +3,11 @@
   font-size: 24px;
 }
 
+ul {
+  background-color: aqua;
+  padding: 50px;
+}
+
 .footer {
   background-color: yellow;
   font-size: 200px;
